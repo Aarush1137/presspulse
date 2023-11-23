@@ -37,7 +37,7 @@ const Contact = () => {
                     <Link href="mailto:jaiswalanshika50@gmail.com?Subject=This is a subject" target="_blank" color="inherit" margin-right="2%">
                         <Email />
                     </Link>
-                    <Link href="Wa.me/+917722890254" target="_blank" color="inherit" margin-right="2%">
+                    <Link href="https://Wa.me/+917722890254" target="_blank" color="inherit" margin-right="2%">
                         <WhatsApp />
                     </Link>
                     <br />
